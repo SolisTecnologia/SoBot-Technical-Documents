@@ -5,8 +5,9 @@
 
 This repository contains information necessary for operation of the SoBot robot.
 
+
 For more information about the commands used, check the Robot Commands Reference Guide.
-#### [Reference Guide](https://github.com/SolisTecnologia/SoBot-Instruction-Manual/blob/master/GUIA%20DE%20REFER%C3%8ANCIA%20-%20SOBOT.pdf)
+[Reference Guide](https://github.com/SolisTecnologia/SoBot-Instruction-Manual/blob/master/GUIA%20DE%20REFER%C3%8ANCIA%20-%20SOBOT.pdf)
 
 
 # Reference Link
