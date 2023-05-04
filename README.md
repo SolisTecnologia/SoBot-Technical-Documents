@@ -6,9 +6,9 @@ AMR (autonomous mobile robotics) platform equipped with a camera system, ultraso
 
 This product was developed 100% by Solis Tecnologia, and has a lot of technology employing cutting-edge concepts, such as:
 
-The motors can be controlled simultaneously or individually.
-The user can select different accessories to implement to the robot.
-Several programming languages can be used to connect via API.
+The motors can be controlled simultaneously or individually.  
+The user can select different accessories to implement to the robot.  
+Several programming languages can be used to connect via API.  
 
 ## Technical Documents
 
