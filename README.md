@@ -10,15 +10,9 @@ The motors can be controlled simultaneously or individually.
 The user can select different accessories to implement to the robot.
 Several programming languages can be used to connect via API.
 
-## Instruction Manual - [Robot Commands Reference Guide](https://github.com/SolisTecnologia/SoBot-Instruction-Manual/blob/master/GUIA%20DE%20REFER%C3%8ANCIA%20-%20SOBOT.pdf)
+## Technical Documents
 
-This repository contains information necessary for operation of the SoBot robot.
-
-The SoBot Command Reference Guide is designed to help you program the commands available to control your driver.
-
-With the commands mentioned in this guide, it is possible to develop practical applications of algorithms from the simplest to the most complex level using development boards such as Arduino, Raspberry, NVidia Jetson, Intel Galileo, among others.
-
-The commands in this guide are grouped according to the pre-defined functions available for SoBot control, being a set of wheel parameterization commands, a set of commands to move the robot in all directions with options for curves mode on the same axis or differential between the wheels, commands to read distance sensors of the ultrasonic and infrared type, commands to read the range with photoelectric sensors, control digital and analog inputs and outputs, control light and sound signals such as RGB led strip around of the robot and continuous signal buzzer, accelerometer sensor reading, send and receive commands serially to external devices, control the elevator module when coupled to the robot, insert delay times between control commands, enable sending of return commands to signal the execution of the command used and identification of error codes for possible errors in the commands of control.
+This repository contains technical documentation with all the information to assist in the development of applications with the SoBot Robot.
 
 # Reference Link
 [SolisTecnologia website](https://solistecnologia.com/produtos/robotsingle)
