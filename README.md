@@ -15,7 +15,7 @@ Several programming languages can be used to connect via API.
 This repository contains technical documentation with all the information to assist in the development of applications with the SoBot Robot.
 
 # Reference Link
-[SolisTecnologia website](https://solistecnologia.com/produtos/robotsingle)
+[SolisTecnologia website](https://www.solistecnologia.com.br/produtos/estacoes_sobot)
 
 # Please Contact Us
 If you have any problem when using our robot after checking the Robot Commands Reference Guide, please contact us.
